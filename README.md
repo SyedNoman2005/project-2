@@ -6,7 +6,7 @@ A simple Python script to generate QR codes from text or URLs.
 
 Author: [Syed Noman]
 Date: March 2026
-License: MIT
+
 
 Usage:
     1. Replace the text in the 'url' variable with your desired content
